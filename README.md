@@ -1,6 +1,6 @@
-# Pokedex
+# Pokedex (>‿◠)✌
 
-Este é um projeto desenvolvido no aritgo (https://dev.to/womakerscode/criando-seu-pokedex-com-spring-webflux-mongodb-deploy-no-heroku-21f5)[Dev.to]
+Este é um projeto desenvolvido no aritgo [Dev.to](https://dev.to/womakerscode/criando-seu-pokedex-com-spring-webflux-mongodb-deploy-no-heroku-21f5)
 
 Para rodar esta Rest API local você precisa usar
 ` mvn clean ` & ` mvn install `
