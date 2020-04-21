@@ -11,7 +11,9 @@ public class ReactivewebApplication `
 
 Endoints:
 http://localhost:8080/pokemons
+
 http://localhost:8080/pokemons/events
+
 http://localhost:8080/pokemons/{id}
 
 Esta RestAPI esta hospedada no Heroku, você consegue acessar em: https://mighty-journey-86009.herokuapp.com/
