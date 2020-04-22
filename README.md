@@ -20,4 +20,4 @@ http://localhost:8080/pokemons/{id}
 
 Esta RestAPI esta hospedada no Heroku, você consegue acessar em: https://mighty-journey-86009.herokuapp.com/
 
-Dê um fork, e crie seu pokedex reativo :D
+**Dê um fork, e crie seu pokedex reativo :D**
