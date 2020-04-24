@@ -1,16 +1,17 @@
-# Pokedex (>‿◠)✌
+# Pokedex :shipit:
 
 Este é um projeto desenvolvido no aritgo [Dev.to](https://dev.to/womakerscode/criando-seu-pokedex-com-spring-webflux-mongodb-deploy-no-heroku-21f5)
 
-Para rodar esta Rest API local você precisa usar
+:house: Para rodar esta Rest API local você precisa usar
 ` mvn clean ` & ` mvn install `
 
-E rodar na sua IDE a classe main()
+:arrow_forward: E rodar na sua IDE a classe main()
 
 ` @SpringBootApplication
 public class ReactivewebApplication `
 
-Endoints:
+
+:arrow_right: Endoints:
 
 http://localhost:8080/pokemons
 
