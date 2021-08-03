@@ -1,6 +1,6 @@
 # :shipit: Pokedex 
 
-Este é um projeto desenvolvido no aritgo [Dev.to](https://dev.to/womakerscode/criando-seu-pokedex-com-spring-webflux-mongodb-deploy-no-heroku-21f5)
+Este é um projeto desenvolvido no artigo [Dev.to](https://dev.to/womakerscode/criando-seu-pokedex-com-spring-webflux-mongodb-deploy-no-heroku-21f5)
 
 :house: Para rodar esta Rest API local você precisa usar
 ` mvn clean ` & ` mvn install `
