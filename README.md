@@ -2,16 +2,16 @@
 
 Este é um projeto desenvolvido no artigo [Dev.to](https://dev.to/womakerscode/criando-seu-pokedex-com-spring-webflux-mongodb-deploy-no-heroku-21f5)
 
-:house: Para rodar esta Rest API local você precisa usar
+## Para rodar esta Rest API local você precisa usar
 ` mvn clean ` & ` mvn install `
 
-:arrow_forward: E rodar na sua IDE a classe main()
+## E rodar na sua IDE a classe main()
 
 ` @SpringBootApplication
 public class ReactivewebApplication `
 
 
-:arrow_right: Endoints:
+## Endoints:
 
 http://localhost:8080/pokemons
 
