@@ -1,4 +1,4 @@
-# :shipit: Pokedex 
+# Pokedex 
 
 Este é um projeto desenvolvido no artigo [Dev.to](https://dev.to/womakerscode/criando-seu-pokedex-com-spring-webflux-mongodb-deploy-no-heroku-21f5)
 
