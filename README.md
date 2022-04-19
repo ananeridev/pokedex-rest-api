@@ -1,11 +1,11 @@
 # Pokedex 
 
-Este é um projeto desenvolvido no artigo [Dev.to](https://dev.to/womakerscode/criando-seu-pokedex-com-spring-webflux-mongodb-deploy-no-heroku-21f5)
+Project development on  [Dev.to](https://dev.to/womakerscode/criando-seu-pokedex-com-spring-webflux-mongodb-deploy-no-heroku-21f5)
 
 ## Run the application
 ` mvn clean ` & ` mvn install `
 
-## an then
+## and then
 
 ` @SpringBootApplication
 public class ReactivewebApplication `
